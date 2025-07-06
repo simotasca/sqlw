@@ -1,5 +1,5 @@
 module github.com/simotasca/sqlw
 
-go 1.24.3
+go 1.10
 
 require github.com/jmoiron/sqlx v1.4.0
